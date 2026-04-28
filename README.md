@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ReactJs<br>🎯  Tech Enthusiast | AI explorer | Content Writer</p>
+<p align="left">📚 I'm currently learning ReactJs<br>🎯  Tech Enthusiast | AI explorer | Content Writer</p>br>Expressing ideas and breaking down tech concepts</p>
 
 ###
 
