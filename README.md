@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I am Jahnavi Gangireddy</p>
-<img src ="https://www.magnific.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=4&position=3&uuid=bb40d0da-aa06-4a90-a189-8f24f40bf678&query=Coding+animation " />
+<img src =" https://tse3.mm.bing.net/th/id/OIP.zwJUihxJsHgUL9eQ2x-n4QHaEK?pid=Api&P=0&h=180" />
 
 ###
 
