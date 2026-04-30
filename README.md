@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I am Jahnavi Gangireddy</p>
+<img src ="https://www.magnific.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=4&position=3&uuid=bb40d0da-aa06-4a90-a189-8f24f40bf678&query=Coding+animation " />
 
 ###
 
@@ -35,7 +36,7 @@
 ###
 
 <div align="left">
-  <a href="[www.linkedin.com/in/jaanvicreates](https://www.linkedin.com/in/jaanvicreates?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href=" www.linkedin.com/in/jaanvicreates" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/jaanvicreates" target="_blank">
