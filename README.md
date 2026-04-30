@@ -3,7 +3,6 @@
 ###
 
 <p align="left">I am Jahnavi Gangireddy</p>
-<img src =" https://tse3.mm.bing.net/th/id/OIP.zwJUihxJsHgUL9eQ2x-n4QHaEK?pid=Api&P=0&h=180" />
 
 ###
 
@@ -11,7 +10,13 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ReactJs<br>🎯  Tech Enthusiast | AI explorer | Content Writer</br>✏️Expressing ideas and breaking down tech concepts</p>
+<div align="left">
+  <img height="200" src="https://tse3.mm.bing.net/th/id/OIP.zwJUihxJsHgUL9eQ2x-n4QHaEK?pid=Api&P=0&h=180"  />
+</div>
+
+###
+
+<p align="left">📚 I'm currently learning ReactJs<br>🎯  Tech Enthusiast | AI explorer | Content Writer</p>
 
 ###
 
@@ -36,13 +41,13 @@
 ###
 
 <div align="left">
-  <a href=" www.linkedin.com/in/jaanvicreates" target="_blank">
+  <a href="www.linkedin.com/in/jaanvicreates" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/jaanvicreates" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/jaanvicreates" target="_blank">
+  <a href="https://www.instagram.com/jaanvicreates?igsh=NWhrZW5hNmVuMW9r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://medium.com/@jaanvicreates" target="_blank">
@@ -51,19 +56,3 @@
 </div>
 
 ###
-
-
-<!--
-**jaanvicreates/jaanvicreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
